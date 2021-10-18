@@ -1,0 +1,12 @@
+body {
+text-align:center;
+Background-color:grey;
+}
+.ibox {
+
+background-color:lightblue;
+width:250px;
+height:25px;
+margin-left:23px;
+margin-bottom:23px;
+}
